@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PruebasMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_createMarker">Create point</string>
+
+    <string-array name="categories_array_menu">
+        <item>NaturEvents</item>
+        <item>All</item>
+        <item>Volcano</item>
+        <item>Storm</item>
+        <item>Earthquake</item>
+        <item>Flood</item>
+        <item>Tornado</item>
+        <item>Hurricane</item>
+        <item>Wildfire</item>
+        <item>Avalanche</item>
+        <item>Plague</item>
+        <item>Cats</item>
+    </string-array>
+
+    <string-array name="categories_array">
+        <item>Volcano</item>
+        <item>Storm</item>
+        <item>Earthquake</item>
+        <item>Flood</item>
+        <item>Tornado</item>
+        <item>Hurricane</item>
+        <item>Wildfire</item>
+        <item>Avalanche</item>
+        <item>Plague</item>
+        <item>Cats</item>
+    </string-array>
+
+
+</resources>
